@@ -7,5 +7,7 @@ int main()
   
   printf("Hello World!");
 
-  printf("Ovo je promena za push iz teminala/ iz lokalnog gita")
+  printf("Ovo je promena za push iz teminala/ iz lokalnog gita");
+
+  printf("nova promena");
 }
