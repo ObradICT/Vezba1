@@ -9,5 +9,5 @@ int main()
 
   printf("Ovo je promena za push iz teminala/ iz lokalnog gita");
 
-  printf("nova promena");
+  printf("nova promena"); # auuu vau
 }
